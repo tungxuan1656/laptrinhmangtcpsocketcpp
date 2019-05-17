@@ -1,0 +1,8 @@
+﻿  Task1_Server.cpp
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework01\task1_server\task1_server.cpp(70): warning C4778: 'printf' : unterminated format string '%'
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework01\task1_server\task1_server.cpp(70): warning C4474: 'printf' : too many arguments passed for format string
+  f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework01\task1_server\task1_server.cpp(70): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework01\task1_server\task1_server.cpp(94): warning C4172: returning address of local variable or temporary: out
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework01\task1_server\task1_server.cpp(114): warning C4172: returning address of local variable or temporary: out
+  Task1_Server.vcxproj -> F:\OneDrive - Hanoi University of Science and Technology\IT\BTL\LTM\Homework01\Debug\Task1_Server.exe
+  Task1_Server.vcxproj -> F:\OneDrive - Hanoi University of Science and Technology\IT\BTL\LTM\Homework01\Debug\Task1_Server.pdb (Full PDB)

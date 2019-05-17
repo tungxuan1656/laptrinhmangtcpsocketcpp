@@ -1,0 +1,7 @@
+﻿  loginout.cpp
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework06\server\loginout.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  Server.cpp
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework06\server\server.cpp(67): warning C4101: 'sendBuff': unreferenced local variable
+  Generating Code...
+  Server.vcxproj -> F:\OneDrive - Hanoi University of Science and Technology\IT\BTL\LTM\Homework06\Debug\Server.exe
+  Server.vcxproj -> F:\OneDrive - Hanoi University of Science and Technology\IT\BTL\LTM\Homework06\Debug\Server.pdb (Full PDB)

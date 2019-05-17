@@ -1,0 +1,7 @@
+﻿  Task1_Server.cpp
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework02\task1_server\task1_server.cpp(98): warning C4778: 'printf' : unterminated format string '%'
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework02\task1_server\task1_server.cpp(98): warning C4474: 'printf' : too many arguments passed for format string
+  f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework02\task1_server\task1_server.cpp(98): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework02\task1_server\task1_server.cpp(133): warning C4018: '<': signed/unsigned mismatch
+  Task1_Server.vcxproj -> F:\OneDrive - Hanoi University of Science and Technology\IT\BTL\LTM\Homework02\Debug\Task1_Server.exe
+  Task1_Server.vcxproj -> F:\OneDrive - Hanoi University of Science and Technology\IT\BTL\LTM\Homework02\Debug\Task1_Server.pdb (Full PDB)

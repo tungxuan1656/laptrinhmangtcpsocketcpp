@@ -1,0 +1,6 @@
+﻿  Server.cpp
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework04\server\server.cpp(75): warning C4101: 'buff': unreferenced local variable
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework04\server\server.cpp(103): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework04\server\server.cpp(97): warning C4101: 'buff': unreferenced local variable
+  Server.vcxproj -> F:\OneDrive - Hanoi University of Science and Technology\IT\BTL\LTM\Homework04\Debug\Server.exe
+  Server.vcxproj -> F:\OneDrive - Hanoi University of Science and Technology\IT\BTL\LTM\Homework04\Debug\Server.pdb (Full PDB)

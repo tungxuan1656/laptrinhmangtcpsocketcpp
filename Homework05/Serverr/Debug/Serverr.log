@@ -1,0 +1,5 @@
+﻿  Serverr.cpp
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework05\serverr\serverr.cpp(186): warning C4101: 'sendBuff': unreferenced local variable
+f:\onedrive - hanoi university of science and technology\it\btl\ltm\homework05\serverr\serverr.cpp(353): warning C4018: '<': signed/unsigned mismatch
+  Serverr.vcxproj -> F:\OneDrive - Hanoi University of Science and Technology\IT\BTL\LTM\Homework05\Debug\Serverr.exe
+  Serverr.vcxproj -> F:\OneDrive - Hanoi University of Science and Technology\IT\BTL\LTM\Homework05\Debug\Serverr.pdb (Full PDB)
